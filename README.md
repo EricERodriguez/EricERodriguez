@@ -33,7 +33,7 @@ Hi there, I'm Eric Rodriguez 👋
 </p>
 <p>
  <a href="https://trailblazer.me/id">
-    <img src="https://assets.stickpng.com/thumbs/58482f67cef1014c0b5e4a81.png" data-canonical-src="https://trailblazer.me/id" style="max-width:15%;">
+    <img src="https://my.cyclr.com/api/ConnectorIcon/12158" data-canonical-src="https://trailblazer.me/id" style="max-width:15%;">
   </a>
 </p>
 <h3>
