@@ -29,7 +29,7 @@ Hi there, I'm Eric Rodriguez 👋
 </p>
  <p>
  <a href="https://github.com/EricERodriguez">
-    <img src="https://img.shields.io/badge/github-Eric%20Rodriguez-lightgrey?style=social&logo=github" data-canonical-src="https://github.com/EricERodriguez" style="max-width:5%;">
+    <img src="https://img.shields.io/github/followers/EricERodriguez?label=follow&style=social" data-canonical-src="https://github.com/EricERodriguez" style="max-width:5%;">
   </a>
 </p>
  <p>
