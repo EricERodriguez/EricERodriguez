@@ -22,7 +22,11 @@ Hi there, I'm Eric Rodriguez 👋
 
 
 
- [![Linkedin: EricRodriguez](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-rodriguez-694664a0/](https://www.linkedin.com/in/eric-rodriguez-694664a0/)
+ <p>
+ <a href="https://www.linkedin.com/in/eric-rodriguez-694664a0/">
+    <img src="https://play-lh.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo=s128" data-canonical-src="https://www.linkedin.com/in/eric-rodriguez-694664a0/" style="max-width:5%;">
+  </a>
+</p>
  <p>
  <a href="https://www.freecodecamp.org/ericrodriguez">
     <img src="https://avatars-03.gitter.im/group/iv/6/57542cf4c43b8c6019778297?s=48" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">
