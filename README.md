@@ -30,7 +30,7 @@ Hi there, I'm Eric Rodriguez 👋
 </p>
 <p>
  <a href="https://www.freecodecamp.org/ericrodriguez">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgitter.im%2FFreeCodeCamp%2FEspanol&psig=AOvVaw1TQn479cDOHwBXfXrRnRLG&ust=1611034475322000&source=images&cd=vfe&ved=2ahUKEwin9Z-e4aTuAhVfDrkGHfh8BioQjRx6BAgAEAc" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">
   </a>
 </p>
 <p>
