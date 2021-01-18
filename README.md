@@ -33,6 +33,11 @@ Hi there, I'm Eric Rodriguez 👋
   </a>
 </p>
  <p>
+ <a href="https://codepen.io/ericerodriguez">
+    <img src="https://img.shields.io/badge/codepen-Follow-lightgrey?style=social&logo=codepen" data-canonical-src="https://codepen.io/ericerodriguez" style="max-width:5%;">
+  </a>
+</p>
+ <p>
  <a href="https://www.freecodecamp.org/ericrodriguez">
     <img src="https://img.shields.io/badge/Eric%20Rodriguez-lightgrey?style=social&logo=freecodecamp" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">
   </a>
