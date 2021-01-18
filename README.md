@@ -1,3 +1,4 @@
+
 <h2>
 Hi there, I'm Eric Rodriguez 👋
 </h2>
@@ -19,6 +20,10 @@ Hi there, I'm Eric Rodriguez 👋
   </em>
 
 </p>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="eric-rodriguez-694664a0"><a class="LI-simple-link" href='https://ar.linkedin.com/in/eric-rodriguez-694664a0?trk=profile-badge'>Eric Rodriguez</a></div>
+<p>
+  <a href="https://www.linkedin.com/in/eric-rodriguez-694664a0/" rel="nofollow"
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
