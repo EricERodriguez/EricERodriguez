@@ -24,7 +24,7 @@ Hi there, I'm Eric Rodriguez 👋
 
  <p>
  <a href="https://www.linkedin.com/in/eric-rodriguez-694664a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Eric%20Rodriguez-blue?style=social&logo=linkedin" data-canonical-src="https://www.linkedin.com/in/eric-rodriguez-694664a0/" style="max-width:5%;">
+    <img src="https://img.shields.io/linkedin/followers/LinkedIn-blue?style=social&logo=linkedin" data-canonical-src="https://www.linkedin.com/in/eric-rodriguez-694664a0/" style="max-width:5%;">
   </a>
 </p>
  <p>
