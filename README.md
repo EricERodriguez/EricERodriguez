@@ -20,7 +20,7 @@ Hi there, I'm Eric Rodriguez 👋
 </p>
 
 
-/// Logos creados en shields.io
+<!---Logos creados en shields.io --->
 
  <p>
  <a href="https://www.linkedin.com/in/eric-rodriguez-694664a0/">
