@@ -28,13 +28,18 @@ Hi there, I'm Eric Rodriguez 👋
   </a>
 </p>
  <p>
+ <a href="https://github.com/EricERodriguez">
+    <img src="https://img.shields.io/badge/github-Eric%20Rodriguez-lightgrey?style=social&logo=github" data-canonical-src="https://github.com/EricERodriguez" style="max-width:5%;">
+  </a>
+</p>
+ <p>
  <a href="https://www.freecodecamp.org/ericrodriguez">
-    <img src="https://avatars-03.gitter.im/group/iv/6/57542cf4c43b8c6019778297?s=48" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">
+    <img src="https://img.shields.io/badge/Eric%20Rodriguez-lightgrey?style=social&logo=freecodecamp" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">
   </a>
 </p>
 <p>
  <a href="https://trailblazer.me/id">
-    <img src="https://lh3.googleusercontent.com/pMt5KY10WsdxPKFIe-19Sg9EVrPsHonhcji6rwiSopvhz8ArfH3hi8xJ-XL16jvdpMxPBp7sBy1OFofeeR0pNktkQA=w128-h128-e365-rj-sc0x00ffffff" data-canonical-src="https://trailblazer.me/id" style="max-width:15%;">
+    <img src="https://img.shields.io/badge/SalesForce-Eric%20Rodriguez-blue?style=social&logo=salesforce" data-canonical-src="https://trailblazer.me/id" style="max-width:15%;">
   </a>
 </p>
 <h3>
