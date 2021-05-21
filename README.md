@@ -66,3 +66,12 @@ Hi there, I'm Eric Rodriguez 👋
  <span class="pl-c1">challenge</span>: <span class="pl-s">"Training in SaleForce"</span>
 <span class="pl-kos">}</span></pre></div>
 </pre></code>
+
+<!--Esto indica que lenguaje llevo en porcentaje  -->
+<!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green) -->
+
+<!-- Contador de visitas  -->
+<!--  ![Profile View Counter](https://komarev.com/ghpvc/?username=EricERodriguez) -->
+
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true)
+
