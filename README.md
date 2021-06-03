@@ -2,12 +2,9 @@
 Hi there, I'm Eric Rodriguez 👋
 </h2>
 
-<p> 
-  <img align="center"  href="https://media-exp1.licdn.com/dms/image/C4D03AQGprKyyz67i-w/profile-displayphoto-shrink_800_800/0/1609083788601?e=1623888000&v=beta&t=TKAwp3GjFJDbIm93jselRAbUTRXWs1e-R4E7yBoZ9VQ"><img aling="right" src="https://media-exp1.licdn.com/dms/image/C4D03AQGprKyyz67i-w/profile-displayphoto-shrink_800_800/0/1609083788601?e=1623888000&v=beta&t=TKAwp3GjFJDbIm93jselRAbUTRXWs1e-R4E7yBoZ9VQ" width="230" style="max-width-100%;"> 
-   
-  </p>
- 
 
+  <img aling="right" src="https://media-exp1.licdn.com/dms/image/C4D03AQGprKyyz67i-w/profile-displayphoto-shrink_800_800/0/1609083788601?e=1623888000&v=beta&t=TKAwp3GjFJDbIm93jselRAbUTRXWs1e-R4E7yBoZ9VQ" width="230" style="max-width-100%;"> 
+ 
 <p> 
   <em>
      <br> "Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial" <a href="https://ispc.prod.tucampus.org/tecnicatura-datos/" rel="nofollow">Instituto Superior Politécnico Córdoba</a>
