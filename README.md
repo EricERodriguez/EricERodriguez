@@ -71,7 +71,7 @@ Hi there, I'm Eric Rodriguez 👋
 </pre></code>
 
 <!--Esto indica que lenguaje llevo en porcentaje  -->
-<!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green) -->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green)
 
 <!-- Contador de visitas  -->
 <!--  ![Profile View Counter](https://komarev.com/ghpvc/?username=EricERodriguez) -->
