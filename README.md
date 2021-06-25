@@ -6,7 +6,7 @@ Hi there, I'm Eric Rodriguez 👋
   <img aling="center" src="https://github.com/EricERodriguez/MiniChango/blob/master/public/perfil.png?raw=true" width="150" height=""  style="max-width-100%; border-radius: 50%; border: 2px solid black;" > 
   </center>
   <p/>
-<p style = 'text-align:center;'>
+<p align="center">
   <em>
      <br> "Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial" : <a href="https://ispc.prod.tucampus.org/tecnicatura-datos/" rel="nofollow">Instituto Superior Politécnico Córdoba</a>
     </br>
