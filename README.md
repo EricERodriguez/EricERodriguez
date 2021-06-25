@@ -1,10 +1,10 @@
 <h2>
 Hi there, I'm Eric Rodriguez 👋
 </h2>
-<p>
-  <a target="_blank" rel="nooperner noreferrer" href="https://www.linkedin.com/in/eric-rodriguez-694664a0/"><img aling="right" src="https://media-exp1.licdn.com/dms/image/C4D03AQGprKyyz67i-w/profile-displayphoto-shrink_800_800/0/1609083788601?e=1623888000&v=beta&t=TKAwp3GjFJDbIm93jselRAbUTRXWs1e-R4E7yBoZ9VQ" width="150" height=""  style="max-width-100%;"> 
+<center>
+  <a target="_blank" rel="nooperner noreferrer" href="https://www.linkedin.com/in/eric-rodriguez-694664a0/"><img aling="right" src="https://media-exp1.licdn.com/dms/image/C4D03AQFQFDNU2U9sag/profile-displayphoto-shrink_800_800/0/1624629834436?e=1629936000&v=beta&t=6mJpcIMQFDVu5k_ASX04DSblZBeJ3lqgJz9kX5HNUy8" width="150" height=""  style="max-width-100%; border-radius: 50%; border: 2px solid black;" > 
    </a>
-  </p>
+  </center>
 <p style = 'text-align:center;'>
   <em>
      <br> "Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial" : <a href="https://ispc.prod.tucampus.org/tecnicatura-datos/" rel="nofollow">Instituto Superior Politécnico Córdoba</a>
@@ -88,9 +88,10 @@ Hi there, I'm Eric Rodriguez 👋
 <!--  ![Profile View Counter](https://komarev.com/ghpvc/?username=EricERodriguez) -->
 <!-- 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true) -->
- 
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green" /><img height="230em" src="https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true" />
- 
+ <center>
+ <img height="230em" src="https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true" />
+<img height="230em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green" />
+ </center>
 
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
