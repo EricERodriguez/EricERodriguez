@@ -2,9 +2,10 @@
 Hi there, I'm Eric Rodriguez 👋
 </h2>
 <center>
-  <a target="_blank" rel="nooperner noreferrer" href="https://www.linkedin.com/in/eric-rodriguez-694664a0/"><img aling="right" src="https://media-exp1.licdn.com/dms/image/C4D03AQFQFDNU2U9sag/profile-displayphoto-shrink_800_800/0/1624629834436?e=1629936000&v=beta&t=6mJpcIMQFDVu5k_ASX04DSblZBeJ3lqgJz9kX5HNUy8" width="150" height=""  style="max-width-100%; border-radius: 50%; border: 2px solid black;" > 
-   </a>
+  <p align="center">
+  <img aling="center" src="https://github.com/EricERodriguez/MiniChango/blob/master/public/perfil.png?raw=true" width="150" height=""  style="max-width-100%; border-radius: 50%; border: 2px solid black;" > 
   </center>
+  <p/>
 <p style = 'text-align:center;'>
   <em>
      <br> "Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial" : <a href="https://ispc.prod.tucampus.org/tecnicatura-datos/" rel="nofollow">Instituto Superior Politécnico Córdoba</a>
@@ -31,25 +32,21 @@ Hi there, I'm Eric Rodriguez 👋
 
  <p>
  <a href="https://www.linkedin.com/in/eric-rodriguez-694664a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" data-canonical-src="https://www.linkedin.com/in/eric-rodriguez-694664a0/" style="max-width:5%;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" data-canonical-src="https://www.linkedin.com/in/eric-rodriguez-694664a0/" style="max-width:5%;">___
   </a>
-</p>
- <p>
+
  <a href="https://github.com/EricERodriguez">
-    <img src="https://img.shields.io/github/followers/EricERodriguez?label=follow&style=social" data-canonical-src="https://github.com/EricERodriguez" style="max-width:5%;">
+    <img src="https://img.shields.io/github/followers/EricERodriguez?label=follow&style=social" data-canonical-src="https://github.com/EricERodriguez" style="max-width:5%;">___
   </a>
-</p>
- <p>
+
  <a href="https://codepen.io/ericerodriguez">
-    <img src="https://img.shields.io/badge/codepen-Follow-lightgrey?style=social&logo=codepen" data-canonical-src="https://codepen.io/ericerodriguez" style="max-width:5%;">
+    <img src="https://img.shields.io/badge/codepen-Follow-lightgrey?style=social&logo=codepen" data-canonical-src="https://codepen.io/ericerodriguez" style="max-width:5%;">___
   </a>
-</p>
- <p>
+
  <a href="https://www.freecodecamp.org/ericrodriguez">
-    <img src="https://img.shields.io/badge/Eric%20Rodriguez-lightgrey?style=social&logo=freecodecamp" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">
+    <img src="https://img.shields.io/badge/Eric%20Rodriguez-lightgrey?style=social&logo=freecodecamp" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">___
   </a>
-</p>
-<p>
+
  <a href="https://trailblazer.me/id">
     <img src="https://img.shields.io/badge/SalesForce-Eric%20Rodriguez-blue?style=social&logo=salesforce" data-canonical-src="https://trailblazer.me/id" style="max-width:15%;">
   </a>
@@ -88,10 +85,10 @@ Hi there, I'm Eric Rodriguez 👋
 <!--  ![Profile View Counter](https://komarev.com/ghpvc/?username=EricERodriguez) -->
 <!-- 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true) -->
- <center>
- <img height="230em" src="https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true" />
-<img height="230em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green" />
- </center>
+ <p align="center">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true" />
+  <img height="230em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green" />
+ </p>
 
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
