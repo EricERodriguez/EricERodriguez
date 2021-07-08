@@ -99,7 +99,7 @@ https://ourcodeworld.co/articulos/leer/162/consejos-y-trucos-que-probablemente-n
 
 - 🔭 I’m currently working on [ASAP-Consulting](https://asap-consulting.com.ar/)
 
-- 👯 I’m looking to collaborate on [MassViajeros](https://massviajeros.com/)
+- 👯 I am a collaborator in  [MassViajeros](https://massviajeros.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
