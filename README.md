@@ -89,7 +89,7 @@ https://ourcodeworld.co/articulos/leer/162/consejos-y-trucos-que-probablemente-n
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true) -->
  <p align="center">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=EricERodriguez&show_icons=true" />
-  <img height="230em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green" />
+<!--   <img height="230em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricERodriguez&theme=blue-green" /> -->
  </p>
 
 
