@@ -62,7 +62,7 @@ https://ourcodeworld.co/articulos/leer/162/consejos-y-trucos-que-probablemente-n
   <span class="pl-c1">ID</span>: <span class="pl-kos">[</span><span class="pl-v">VSCode</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">design</span>: <span class="pl-kos">[</span><span class="pl-v">Ilustrator</span><span class="pl-kos">,</span> <span class="pl-v">Photoshop</span><span class="pl-kos">,</span> <span class="pl-v">Corel draw</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">architecture</span>: <span class="pl-kos">[</span><span class="pl-s">"microservices"</span><span class="pl-kos">,</span> <span class="pl-s">"Scientific computing with Python"</span><span class="pl-kos">,</span> <span class="pl-s">"Data Analysis with Python"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">projects</span>: <span class="pl-kos">{</span>
+  <span class="pl-c1">Courses</span>: <span class="pl-kos">{</span>
                         <span class="pl-c1">title</span>: <span class="pl-s">"Full Stack Java"</span><span class="pl-kos">,</span>
                         <span class="pl-c1">description</span>: <span class="pl-s">"Training in PoloTic"</span><span class="pl-kos">,</span>
                         <span class="pl-c1">url</span>: <span class="pl-s">"https://polotic.misiones.gob.ar/"</span>
@@ -94,6 +94,8 @@ https://ourcodeworld.co/articulos/leer/162/consejos-y-trucos-que-probablemente-n
 
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericerodriguez" alt="ericerodriguez" /></a> </p>
 
 <h3 align="center">A passionate fullstack developer </h3>
 
