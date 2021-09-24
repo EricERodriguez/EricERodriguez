@@ -95,7 +95,7 @@ https://ourcodeworld.co/articulos/leer/162/consejos-y-trucos-que-probablemente-n
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericerodriguez" alt="ericerodriguez" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericerodriguez&title=Joined2020,Commit,Repositories,Followers&theme=onedark&row=2&column=4" alt="ericerodriguez" /></a> </p>
 
 <h3 align="center">A passionate fullstack developer </h3>
 
