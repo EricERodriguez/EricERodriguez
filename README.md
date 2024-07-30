@@ -49,7 +49,7 @@ https://ourcodeworld.co/articulos/leer/162/consejos-y-trucos-que-probablemente-n
     <img src="https://img.shields.io/badge/Eric%20Rodriguez-lightgrey?style=social&logo=freecodecamp" data-canonical-src="https://www.freecodecamp.org/ericrodriguez" style="max-width:5%;">___
   </a>
 
- <a href="https://trailblazer.me/id">
+ <a href="https://www.salesforce.com/trailblazer/erodriguez49">
     <img src="https://img.shields.io/badge/SalesForce-Eric%20Rodriguez-blue?style=social&logo=salesforce" data-canonical-src="https://www.salesforce.com/trailblazer/erodriguez49" style="max-width:15%;">
   </a>
 </p>
