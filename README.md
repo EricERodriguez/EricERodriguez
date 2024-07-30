@@ -50,7 +50,7 @@ https://ourcodeworld.co/articulos/leer/162/consejos-y-trucos-que-probablemente-n
   </a>
 
  <a href="https://trailblazer.me/id">
-    <img src="https://img.shields.io/badge/SalesForce-Eric%20Rodriguez-blue?style=social&logo=salesforce" data-canonical-src="https://trailblazer.me/id" style="max-width:15%;">
+    <img src="https://img.shields.io/badge/SalesForce-Eric%20Rodriguez-blue?style=social&logo=salesforce" data-canonical-src="https://www.salesforce.com/trailblazer/erodriguez49" style="max-width:15%;">
   </a>
 </p>
 <h3>
