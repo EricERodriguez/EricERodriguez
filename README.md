@@ -20,6 +20,12 @@
 </p>
 
 <p align="center">
+  <a href="https://eric-erodriguez-port.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-F04000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"
+      alt="Portfolio"
+    />
+  </a>
   <a href="https://www.linkedin.com/in/eric-e-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-F04000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" 
     />
@@ -41,6 +47,10 @@ const eric = {
   location: "Argentina",
 
   currentMode: "building, reviewing, shipping",
+
+  architecture: "fewer future regrets",
+  aiAgents: "under supervision",
+  openSource: "shipping VS Code extensions",
 
   eyeOfSauron: true,
   productionStatus: "under surveillance",
@@ -74,12 +84,15 @@ const eric = {
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=F04000" alt="CSS3" />
 </p>
 
+
 ### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=F04000" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F04000" alt="Python" />
+  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=F04000" alt="NestJS" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F04000" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F04000" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=F04000" alt="Rust" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logoColor=F04000" alt="SQL" />
   <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logoColor=F04000" alt="REST APIs" />
 </p>
@@ -106,6 +119,87 @@ const eric = {
 
 ---
 
+## 🤖 AI Under Supervision
+
+I build with AI as an engineering tool — not as a replacement for engineering.
+
+- Designing and orchestrating multi-agent workflows.
+- Building developer tooling around Claude Code, Codex, and GitHub Copilot.
+- Working with AI agents, tools, skills, MCP servers, and human-in-the-loop handoffs.
+- Exploring how AI can improve development workflows without turning the codebase into an archaeological site.
+- Treating AI-generated code the same way I treat human-generated code: review it, test it, and don't blindly trust it.
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=F04000" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-0D1117?style=for-the-badge&logo=openai&logoColor=F04000" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=F04000" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logoColor=F04000" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logoColor=F04000" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Human--in--the--Loop-0D1117?style=for-the-badge&logoColor=F04000" alt="Human in the Loop" />
+</p>
+
+> AI gets a seat at the table. Production still requires adult supervision.
+
+
+---
+
+## 🧩 Open Source & VS Code
+
+Sometimes the tool I want doesn't exist.
+
+So I build it.
+
+### 🤖 Agent Studio
+
+<a href="https://marketplace.visualstudio.com/items?itemName=AgentstudioIA.agent-studio-ia">
+  <img
+    src="https://img.shields.io/badge/VS_Code-Agent_Studio-F04000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"
+    alt="Agent Studio"
+  />
+</a>
+
+A visual control plane for building, managing, and orchestrating AI agents directly inside VS Code.
+
+Multi-agent workflows, Claude & Codex execution, tools, skills, MCP servers, human handoffs, workflow visualization, and parallel agent execution.
+
+---
+
+### ✨ Claude Commit Message
+
+<a href="https://marketplace.visualstudio.com/items?itemName=AgentstudioIA.claude-commit-message">
+  <img
+    src="https://img.shields.io/badge/VS_Code-Claude_Commit_Message-F04000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"
+    alt="Claude Commit Message"
+  />
+</a>
+
+Generate meaningful Git commit messages from staged changes using Claude Code — directly from the VS Code Source Control panel.
+
+Because writing:
+
+`fix stuff`
+
+was never a sustainable commit strategy.
+
+---
+
+### ⚡ Copilot Statusbar Toggle
+
+<a href="https://marketplace.visualstudio.com/items?itemName=synyster.copilot-statusbar">
+  <img
+    src="https://img.shields.io/badge/VS_Code-Copilot_Statusbar_Toggle-F04000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"
+    alt="Copilot Statusbar Toggle"
+  />
+</a>
+
+A lightweight status bar control for enabling or disabling GitHub Copilot autocomplete without digging through settings.
+
+Because sometimes you want Copilot.
+
+And sometimes Copilot needs to sit quietly for a minute.
+
+---
+
 ## 🔎 What The Eye Usually Sees
 
 - Debugging in production with just enough context to be dangerous.
@@ -121,8 +215,9 @@ const eric = {
 
 - Architecture with fewer future regrets.
 - Scalable systems and cleaner boundaries between frontend, backend, and business logic.
+- AI-assisted engineering and multi-agent development workflows.
+- Developer tooling and open-source VS Code extensions.
 - Leadership, mentoring, and code reviews that improve the team, not just the branch.
-- Clean code, sane delivery, and less accidental complexity.
 
 ---
 
