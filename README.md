@@ -141,12 +141,13 @@ const eric = {
 
 ---
 
-## 🏆 Achievements Unlocked
+## 👁️ The Eye Never Sleeps
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=EricERodriguez&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=6"
-    alt="GitHub Trophies"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EricERodriguez&bg_color=0D1117&color=C9D1D9&title_color=F04000&line=FF3D00&point=FF7A10&area=true&area_color=3A1208&hide_border=true&custom_title=Recent%20Activity%20Under%20Surveillance&radius=8"
+    alt="Eric Rodriguez GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
